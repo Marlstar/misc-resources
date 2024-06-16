@@ -1,5 +1,5 @@
 {
-    "name": "Rose Pine",
+    "name": "Rose Pine modified",
     "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
     "authors": [
       {
@@ -256,7 +256,7 @@
    },
     "background": {
         "alpha": 5,
-        "url": "https://raw.githubusercontent.com/Marlstar/misc-resources/main/backgrounds/mobile/space/minimal-space-mountains.jpg"
+        "url": "https://raw.githubusercontent.com/Marlstar/misc-resources/main/backgrounds/mobile/space/space-mountains.jpg"
     },
     "plus":{
        "version":"0",
